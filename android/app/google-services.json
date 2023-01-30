@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203149063807",
+    "project_id": "emailsigninaddproductfirebase",
+    "storage_bucket": "emailsigninaddproductfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203149063807:android:bc15c172b8faea1ec7714a",
+        "android_client_info": {
+          "package_name": "com.example.addprouctfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203149063807-nb39bkujuu18dvb3l8c7llmn8gbuh5d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm7CxfRkNzaC2gNaeUVzZUhU_9YfX07gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203149063807-nb39bkujuu18dvb3l8c7llmn8gbuh5d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
